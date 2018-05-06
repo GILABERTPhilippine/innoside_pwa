@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="71px" viewBox="0 0 74 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-41.0%" y="-37.0%" width="182.0%" height="182.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0990998641 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Appli" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Galaxy-S8-Copy-2" transform="translate(0.000000, -669.000000)">
+            <g id="Group-3" transform="translate(11.000000, 680.000000)">
+                <g id="Oval-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Search_lighter" transform="translate(12.000000, 12.000000)" fill="#953393" fill-rule="nonzero">
+                    <path d="M0.812046849,21.2963374 C0.812046849,21.2963374 -1.01505856,23.1143174 0.812046849,25.1920089 C2.50864473,27.0099889 4.5967652,25.1920089 4.5967652,25.1920089 L10.8611266,19.3485017 C10.8611266,19.3485017 13.7322922,20.5172031 15.6899052,20.5172031 C21.4322365,20.5172031 26,15.9722531 26,10.2586016 C26,4.67480577 21.4322365,0 15.6899052,0 C9.9475739,0 5.37981037,4.54495006 5.37981037,10.2586016 C5.37981037,12.0765816 5.77133296,13.6348502 6.55437814,15.063263 L0.812046849,21.2963374 Z M8.38148355,10.2586016 C8.38148355,6.23307436 11.6441718,2.85682575 15.8204127,2.85682575 C19.8661461,2.85682575 23.2593419,6.10321865 23.2593419,10.2586016 C23.2593419,14.2841287 19.9966537,17.6603774 15.8204127,17.6603774 C11.7746793,17.6603774 8.38148355,14.2841287 8.38148355,10.2586016 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
